@@ -1,1 +1,2 @@
 # EDA-Project_Amazon_prime_video
+Analyzed Amazon Prime Video dataset to identify patterns in content distribution, audience preferences, and popularity trends. Developed interactive Power BI dashboards showcasing key KPIs such as genre-wise content share, IMDB rating trends, top contributing countries, and year-wise release insights, enabling data-driven decision-making and strategic content analysis.
